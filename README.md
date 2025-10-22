@@ -35,7 +35,7 @@ Soy Alejandro Villanueva, tax advisor de profesión pero mi "alter ego" es Alex 
 
 [![GitHub](img/Github_blue.png)](https://github.com/wdesigner-co)
 [![Twitter](img/logoX.png)](https://x.com/WDesigner_co)
-[![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/alejandro-villanueva-d)
+[![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/alejandro-villanueva-wdesignerco)
 [![Facebook](img/facebook.png)](https://www.facebook.com/wdesigner.co)
 [![Instagram](img/instagram.png)](https://instagram.com/wdesigner.co)
 
