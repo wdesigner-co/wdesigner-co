@@ -1,16 +1,16 @@
-# Alex Col - WDesigner
+# Alejandro Villanueva Col - WDesigner.co
 
 ![Portada](/img/20231015_1357122.gif)
 
 ## Acerca de Mí
 
-Soy Alejandro Villanueva, tax advisor de profesión pero mi "alter ego" es Alex Col - WDesigner un apasionado diseñador y maquetador web que está incursionando en HTML y CSS, así como el desarrollo web con javascript.
+Soy Alejandro Villanueva, tax advisor de profesión, además soy Front-End Developer y mi marca es WDesigner.co
 
 ## Lenguajes de Programación y Herramientas
 
 - JavaScript
 - React
-- D3.js
+- Typescript
 - jQuery
 - Node.js
 - VS Code
