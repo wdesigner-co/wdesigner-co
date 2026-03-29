@@ -1,4 +1,4 @@
-# Alejandro Villanueva Col - WDesigner.co
+# Alejandro Villanueva  - WDesigner.co
 
 ![Portada](/img/20231015_1357122.gif)
 
